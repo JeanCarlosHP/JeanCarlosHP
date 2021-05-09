@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jean Carlos
+- 👀 I’m interested in Desenvolver minhas habilidades
+- 🌱 I’m currently learning Python
+- 📫 How to reach me jeanchpaula@gmail.com
