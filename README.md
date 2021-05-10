@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jean Carlos
-- 👀 I’m interested in Desenvolver minhas habilidades
-- 🌱 I’m currently learning Python
-- 📫 How to reach me jeanchpaula@gmail.com
+- 👋 Oi, sou o Jean Carlos
+- 👀 Estou interessado em Desenvolver minhas habilidades como programador
+- 🌱 Atualmente estou aprendendo Python, Java, JavaScript, HTML e CSS
+- 📫 Entre em contato comigo: jeanchpaula@gmail.com
