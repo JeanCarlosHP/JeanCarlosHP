@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou aprendendo Python, Java, HTML e CSS
 
 Entre em contato comigo:
+
 <a href="https://www.linkedin.com/in/jean-carlos-henning-de-paula-aba66a212/" rel=noopener>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         width="85">
