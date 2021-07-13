@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Jean Carlos
 - 👀 Estou interessado em desenvolver minhas habilidades como programador
-- 🌱 Atualmente estou aprendendo Python, Java, HTML e CSS
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 
 Entre em contato comigo:
 
