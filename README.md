@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Jean Carlos e tenho 19 anos, atualmente sou desenvolvedor junior backend no Grupo Malwee
+- 👋 Olá, me chamo Jean Carlos e tenho 20 anos, atualmente sou desenvolvedor junior backend no Grupo Malwee
 
 Minha principal experiência é em desenvolvimento backend com Java + Camel-Quarkus para integrações baseadas em micro-serviços (SAP, API externas, etc...)
 Venho aprofundando meus conhecimentos em cloud, principalmente em GKE (Google Kubernetes Engine) para deploy de aplicações. 
